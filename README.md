@@ -1,7 +1,8 @@
-
+                                                 Indian Institute of Information Technology Allahabad
                                                                 NAME : Raushan Raj
                                                                 ROLL : IIT2018031
-                               HTTP_Proxy_Server
+                                                               
+                                                                HTTP_Proxy_Server
    The proxy sits between the client (usually web browser) and the server (web server).
    In our simple case, the client sends all its requests to the proxy instead of sending 
    requests directly to the server. The proxy then opens a connection to the server, and 
