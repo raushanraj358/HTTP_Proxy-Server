@@ -1,6 +1,6 @@
-                                                 Indian Institute of Information Technology Allahabad
-                                                                NAME : Raushan Raj
-                                                                ROLL : IIT2018031
+                               Indian Institute of Information Technology Allahabad
+                                            NAME : Raushan Raj
+                                            ROLL : IIT2018031
                                                                
                                                                 HTTP_Proxy_Server
    The proxy sits between the client (usually web browser) and the server (web server).
